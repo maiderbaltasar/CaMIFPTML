@@ -1,6 +1,6 @@
 # CaM IFPTML model development
 
-Maider Baltasar-Marchueta,1 Naia López,1 Sara Alicante,2 Iratxe Barbolla,1 Markel Garcia Ibarluzea,3,4 Rafael Ramis Cortés,3,4 Ane Miren Salomon,1 Arantza Muguruza-Montero,2 Eider Nuñez,2 Aritz Leonardo,3,4 Sonia Arrasate,1 Nuria Sotomayor,1 Alvaro Villarroel,*2 Aitor Bergara,*3,4 Esther Lete,*1 and Humberto González-Díaz*1,2,5
+Maider Baltasar-Marchueta,1 Naia López,1 Sara Alicante,2 Iratxe Barbolla,1 Markel Garcia Ibarluzea,3,4 Rafael Ramis Cortés,3,4 Ane Miren Salomon,1 Arantza Muguruza-Montero,2 Eider Nuñez,2 Aritz Leonardo,3,4 Sonia Arrasate,1 Nuria Sotomayor,1 Alvaro Villarroel,2 Aitor Bergara,3,4 Esther Lete, 1 and Humberto González-Díaz,1,2,5
 
 1 Department of Organic and Inorganic Chemistry, University of the Basque Country UPV/EHU, 48940, Leioa, Spain.
 
