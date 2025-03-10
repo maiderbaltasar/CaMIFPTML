@@ -1,17 +1,31 @@
 # CaM IFPTML model development
 
-Maider Baltasar-Marchueta,1 Naia López,1 Sara Alicante,2 Iratxe Barbolla,1 Markel Garcia Ibarluzea,3,4 Rafael Ramis Cortés,3,4 Ane Miren Salomon,1 Arantza Muguruza-Montero,2 Eider Nuñez,2 Aritz Leonardo,3,4 Sonia Arrasate,1 Nuria Sotomayor,1 Alvaro Villarroel,2 Aitor Bergara,3,4 Esther Lete, 1 and Humberto González-Díaz,1,2,5
+Maider Baltasar-Marchueta, Naia López, Sara M-Alicante, Iratxe Barbolla, Markel Garcia Ibarluzea, Rafael Ramis Cortés, Ane Miren Salomon, Arantza Muguruza-Montero, Eider Nuñez, Aritz Leonardo, Sonia Arrasate, Nuria Sotomayor, Matthew M Montemore, Alvaro Villarroel, * Aitor Bergara, * Esther Lete, * and Humberto González-Díaz*
 
-1 Department of Organic and Inorganic Chemistry, University of the Basque Country UPV/EHU, 48940, Leioa, Spain.
+M. Baltasar-Marchueta, N. López, I. Barbolla, A. M. Salomon, S. Arrasate, N. Sotomayor, E. Lete, H. González-Díaz
+Department of Organic and Inorganic Chemistry, University of the Basque Country UPV/EHU, 48940, Leioa, Spain.
+E-mail: esther.lete@ehu.eus, humberto.gonzalezdiaz@ehu.eus
 
-2 Biofisika Institute, CSIC-UPV/EHU, 48940, Leioa, Spain.
+M. Baltasar-Marchueta, M. M. Montemore
+Department of Chemical and Biomolecular Engineering, Tulane University, 6823 St Charles Avenue, New Orleans, Louisiana 70118, United States.
 
-3 Donostia International Physics Center, Donostia, Spain.
+S. M-Alicante, A. Muguruza-Montero, E. Nuñez, A. Villarroel, H. González-Díaz
+Biofisika Institute, CSIC-UPV/EHU, 48940, Leioa, Spain.
+E-mail: gbxbimua@ehu.eus
 
-4 Departament of Physics and EHU Quantum Center, University of the Basque Country, UPV/EHU, Leioa, Spain.
+S. M-Alicante, M. Garcia Ibarluzea, R. Ramis Cortés, E. Nuñez, A. Leonardo, A. Bergara
+Department of Physics and EHU Quantum Center, University of the Basque Country, UPV/EHU, Leioa, Spain.
+E-mail: a.bergara@ehu.eus
 
-5 IKERBASQUE, Basque Foundation for Science, 48011, Bilbao, Spain.
+M. Garcia Ibarluzea, R. Ramis Cortés, A. Leonardo, A. Bergara
+Donostia International Physics Center, Donostia, Spain.
 
-* Corresponding authors: AV = gbxbimua@ehu.eus (Biological assays); AB = a.bergara@ehu.eus (Docking studies); EL = esther.lete@ehu.eus (Organic synthesis); HGD = humberto.gonzalezdiaz@ehu.eus (Machine Learning).
+A. Muguruza-Montero
+Department of Physiology, Faculty of Medicine and Nursery, University of the Basque Country (UPV/EHU), Leioa, Spain.
 
-Abstract. Calmodulin is implicated in several neurodegenerative diseases and cardiovascular diseases which makes it an interesting area of research. Understanding these conditions at a molecular level, particularly how calmodulin interacts with various signalling molecules, is vital for developing targeted therapies. In this context, this research focused on developing a machine learning model to predict the efficacy of different assays and drugs of diseases related to CaM under different boundary conditions.  To achieve this, we compiled a comprehensive dataset including commercialized drugs and experimental compounds targeting CaM complexes. We employed statistical models, specifically following the IFPTML pathway, to identify key factors influencing these activities. Furthermore, a case study on riluzole derivatives was conducted. Riluzole was chosen as target drug for its significant role in modulating Ca2+-dependent interactions between calmodulin and target proteins. The study involved synthesizing riluzole derivatives, performing biological assays, and conducting docking studies to evaluate their efficacy. The predictive model developed was then applied to assess these derivatives, demonstrating its practical utility in predicting their potential as therapeutic agents. This research not only advances our understanding of CaM-related diseases but also provides a framework for developing new treatments based on predictive modelling.
+H. González-Díaz
+IKERBASQUE, Basque Foundation for Science, 48011, Bilbao, Spain.
+
+Keywords: Drug Discovery; Calmodulin; Riluzole; Chemoinformatic; Machine Learning; Molecular Synthesis; Biological Assays; Docking Studies.
+
+Recently, numerous models have been developed to predict drug interactions with molecules. However, integrating diverse data sources and improving the accuracy of biological activity predictions remains a challenge. This work proposes a novel solution that addresses these limitations. Here, we have developed a machine learning model to predict the efficacy of different assays and drugs for diseases related to calmodulin. To achieve this, we have compiled a comprehensive dataset including commercialized drugs and experimental compounds targeting CaM complexes. We have used the IFPTML modelling technique to identify key factors influencing these activities. We have also synthesized novel riluzole derivatives and have tested them both experimentally as well as computationally. Biological assays and molecular docking studies have been performed to provide a molecular-scale picture of the molecule-CaM interaction. Moreover, as a validation of the utility of the model in drug design, we have tested the model on these derivatives. We have found that the model correctly predicts which derivatives were most bioactive, indicating that this framework can be used to identify promising candidates for new drug formulations. This research not only advances our understanding of CaM-related diseases but also provides an effective framework for developing new treatments based on predictive modelling.
