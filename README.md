@@ -1,5 +1,7 @@
 # CaM IFPTML model development
 
+https://doi.org/10.5281/zenodo.15024296
+
 Maider Baltasar-Marchueta, Naia López, Sara M-Alicante, Iratxe Barbolla, Markel Garcia Ibarluzea, Rafael Ramis Cortés, Ane Miren Salomon, Arantza Muguruza-Montero, Eider Nuñez, Aritz Leonardo, Sonia Arrasate, Nuria Sotomayor, Matthew M Montemore, Alvaro Villarroel, * Aitor Bergara, * Esther Lete, * and Humberto González-Díaz*
 
 M. Baltasar-Marchueta, N. López, I. Barbolla, A. M. Salomon, S. Arrasate, N. Sotomayor, E. Lete, H. González-Díaz
