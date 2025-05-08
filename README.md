@@ -20,8 +20,9 @@ Keywords: Drug Discovery; Calmodulin; Chemoinformatics; Machine Learning; Molecu
 
 Abstract. Recently, numerous models have been developed to predict drug interactions with molecules. However, integrating diverse data sources and improving the accuracy of biological activity predictions remains a challenge. This work proposes a novel solution that addresses these limitations. Here, we have developed a machine learning model to predict the efficacy of different assays and drugs for diseases related to calmodulin. To achieve this, we have compiled a comprehensive dataset including commercialized drugs and experimental compounds targeting CaM complexes. We have used the IFPTML modelling technique to identify key factors influencing these activities. We have also synthesized novel riluzole derivatives and have tested them both experimentally as well as computationally. Biological assays and molecular docking studies have been performed to provide a molecular-scale picture of the molecule-CaM interaction. Moreover, as a validation of the utility of the model in drug design, we have tested the model on these derivatives. We have found that the model correctly predicts which derivatives were most bioactive, indicating that this framework can be used to identify promising candidates for new drug formulations. This research not only advances our understanding of CaM-related diseases but also provides an effective framework for developing new treatments based on predictive modelling.
 
+---
 
-## 📁 Repository contents
+# 📁 Repository contents
 
 - `Readable Data_Python.csv`: Dataset used to train and validate the machine learning models.
 - `camptml.ipynb`: Jupyter notebook with the full workflow: data processing, model training (LDA, XGB), and evaluation.
@@ -39,7 +40,7 @@ Abstract. Recently, numerous models have been developed to predict drug interact
 
 ---
 
-## ▶️ How to reproduce the results
+# ▶️ How to reproduce the results
 
 1. Clone this repository:
    ```bash
@@ -65,7 +66,7 @@ Abstract. Recently, numerous models have been developed to predict drug interact
 
 ---
 
-## 📌 Notes
+# 📌 Notes
 
 - All data used is provided in `Readable Data_Python.csv`.
 - The code and models were developed using Python and Jupyter Notebook.
@@ -73,9 +74,7 @@ Abstract. Recently, numerous models have been developed to predict drug interact
 
 ---
 
-## 📄 Citation
-
-## 📄 Citation
+# 📄 Citation
 
 If you use this work, please cite the corresponding publication (when available) and/or the Zenodo archive:
 
