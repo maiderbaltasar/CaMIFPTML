@@ -27,6 +27,8 @@ Abstract. Recently, numerous models have been developed to predict drug interact
 - `Readable Data_Python.csv`: Dataset used to train and validate the machine learning models.
 - `camptml.ipynb`: Jupyter notebook with the full workflow: data processing, model training (LDA, XGB), and evaluation.
 - `Supporting Information II.xlsx`: Extended supplementary material.
+- `train_set.csv`: Data used to train the models.
+- `test_set.csv`: Independent data used to evaluate the models' predictive performance.
 - PNG figures:
   - Confusion matrices:  
     `LDA_Train_Confusion_Matrix.png`, `LDA_Test_Confusion_Matrix.png`  
