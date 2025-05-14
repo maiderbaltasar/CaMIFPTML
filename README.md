@@ -3,8 +3,6 @@
 This repository contains the data, code, and results for the manuscript:  
 **"A machine learning approach for predicting drug-like molecules targeting Calmodulin pathway proteins"**
 
-Zenodo archive DOI: [10.5281/zenodo.15364274](https://doi.org/10.5281/zenodo.15364274)
-
 ---
 
 Maider Baltasar-Marchueta,1,2 Naia López,1 Sara Alicante,3 Iratxe Barbolla,1 Markel Garcia Ibarluzea,4,5 Rafael Ramis Cortés,4,5 Ane Miren Salomon,1 Arantza Muguruza-Montero,3 Eider Nuñez,3 Aritz Leonardo,4,5 Sonia Arrasate,1 Nuria Sotomayor,1 Matthew M Montemore,2 Alvaro Villarroel,*3 Aitor Bergara,*4,5 Esther Lete,*1 and Humberto González-Díaz*1,3,6
@@ -75,8 +73,6 @@ Abstract. Recently, numerous models have been developed to predict drug interact
 - Results can be visually explored through the figures provided.
 
 ---
-
-# 📄 Citation
 
 If you use this work, please cite the corresponding publication (when available) and/or the Zenodo archive:
 
